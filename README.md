@@ -1,3 +1,3 @@
 # test-ssh
 
-just testing
+test
